@@ -1,4 +1,4 @@
-package com.study.demo02;
+package com.study;
 
 import com.study.pojo.User;
 import org.junit.Test;

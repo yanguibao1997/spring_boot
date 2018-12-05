@@ -48,6 +48,12 @@
 			<artifactId>spring-test</artifactId>
 			<version>RELEASE</version>
 		</dependency>
+		<!-- 添加OkHttp支持 -->
+		<dependency>
+			<groupId>com.squareup.okhttp3</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>3.9.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
